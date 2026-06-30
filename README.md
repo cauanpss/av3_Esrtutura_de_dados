@@ -3,8 +3,11 @@
 ## Integrantes
 
 Cauan Pereira Santos
+
 Daniel Ribeiro Madureira Rocha
+
 Davi Seguchi Carneiro Dias
+
 Ericsson dos Santos 
 
 ## Turma
@@ -144,3 +147,13 @@ Também foram enfrentados desafios relacionados à:
 * organização do código em funções independentes;
 
 Essas dificuldades contribuíram para um melhor entendimento sobre manipulação de arquivos, modularização do código, estruturas de dados e desenvolvimento de aplicações em linguagem C.
+
+## Considerações sobre o Desenvolvimento
+
+Durante o desenvolvimento dos três projetos, foram utilizadas ferramentas de Inteligência Artificial baseadas em Modelos de Linguagem de Grande Escala (LLMs) como apoio à implementação de partes do código. Essas ferramentas foram empregadas principalmente para auxiliar na escrita de trechos específicos, sugerir melhorias de sintaxe e esclarecer dúvidas pontuais relacionadas à linguagem C.
+
+Entretanto, a definição da arquitetura dos programas, a escolha das estruturas de dados, a modularização das funcionalidades e a integração entre os diferentes componentes foram realizadas pelo grupo. Todo o código gerado passou por análise, revisão e adaptação para atender aos requisitos da disciplina e às decisões de projeto adotadas pelos integrantes.
+
+Também houve preocupação em manter um código organizado, legível e modular, utilizando funções com responsabilidades bem definidas, validação de entradas, gerenciamento adequado dos dados e aplicação das estruturas estudadas em sala de aula. Cada programa foi desenvolvido utilizando a estrutura de dados mais adequada ao problema proposto (lista, pilha ou fila), buscando refletir os conceitos apresentados na disciplina tanto na organização do código quanto no gerenciamento das informações.
+
+Dessa forma, a utilização de LLMs ocorreu exclusivamente como ferramenta de apoio ao processo de desenvolvimento. O planejamento, a implementação, a revisão, os testes, a depuração e a versão final dos programas foram de responsabilidade do grupo.
