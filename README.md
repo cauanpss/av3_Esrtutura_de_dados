@@ -12,7 +12,7 @@ Ericsson dos Santos
 
 ## Vídeo de apresentação
 
-https://www.youtube.com/watch?v=AtDdzBgGewo
+https://www.youtube.com/watch?v=LPOiIiPNk_U
 
 ## Turma
 
