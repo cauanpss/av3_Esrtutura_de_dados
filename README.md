@@ -10,6 +10,10 @@ Davi Seguchi Carneiro Dias
 
 Ericsson dos Santos 
 
+## Vídeo de apresentação
+
+https://www.youtube.com/watch?v=AtDdzBgGewo
+
 ## Turma
 
 **Turma:**
