@@ -152,6 +152,8 @@ Também foram enfrentados desafios relacionados à:
 
 Essas dificuldades contribuíram para um melhor entendimento sobre manipulação de arquivos, modularização do código, estruturas de dados e desenvolvimento de aplicações em linguagem C.
 
+A essas dificuldades, somou-se ainda o desafio de sintetizar toda a explicação do funcionamento, das decisões de implementação e dos problemas enfrentados em um tempo limitado de apenas 10 minutos para apresentação, o que exigiu um esforço adicional de planejamento e objetividade na comunicação.
+
 ## Considerações sobre o Desenvolvimento
 
 Durante o desenvolvimento dos três projetos, foram utilizadas ferramentas de Inteligência Artificial baseadas em Modelos de Linguagem de Grande Escala (LLMs) como apoio à implementação de partes do código. Essas ferramentas foram empregadas principalmente para auxiliar na escrita de trechos específicos, sugerir melhorias de sintaxe e esclarecer dúvidas pontuais relacionadas à linguagem C.
